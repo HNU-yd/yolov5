@@ -1,0 +1,7 @@
+image,true_class,pred_class,confidence
+true\0419f656d61b42a6b2d567ed9ab6673f.jpg,3,9,0.991026
+true\50b382a8b04c0da07f82216583e3f42c.jpg,2,4,1
+true\5edeade7ca9e85efa46e1be268be129c.jpg,3,9,0.976601
+true\62795dabbbbe425b28275c4a0a601a63.jpg,2,9,0.991667
+true\ff1778ed14e5ac5be5217d410841750d.jpg,8,1,0.996947
+true\ffe56e1e84047ba47c423fc9937924c1.jpg,5,7,0.9952
